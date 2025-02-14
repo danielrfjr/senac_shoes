@@ -11,3 +11,7 @@ Comandos Básicos do GIT
 `git log --oneline --graph --decorate` -> Forma compacta de exibir os commits.
 `git remote add origin https://github.com/repositorio` -> Realiza a sincronização do repositorio local com o remoto.
 `git push -u origin main` -> Envia as informações do repositório local para o remoto.
+`git clone https://github.com/repositorio` -> Clona um repositório do github.
+`git branch` -> Exibe as branchs que foram criadas.
+`git branch nome_da_branch` -> Cria uma nova branch
+`git checkout nome_da_branch` -> Altera a branch selecionada
